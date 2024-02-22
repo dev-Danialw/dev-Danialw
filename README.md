@@ -1,19 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danial Waheed
-=====================================================================================================================================
+Hi 👋 My name is Danial Waheed
+===============================
 
-Web Developer
+Developer
 -------------
 
-I'm a final year Computer Science student. As a web developer, I specialize in using React.js to create dynamic and responsive web applications. I also have experience with React Native, allowing me to create mobile applications that run on both iOS and Android platforms. Over the years, I've worked on multiple projects that have allowed me to hone my skills and deepen my knowledge of web development.
+🎓 Recent Computer Science graduate passionate about web development and mobile applications. Specializing in React.js and Next.js for dynamic and responsive web applications and React Native for cross-platform mobile development.
 
-From designing user interfaces to implementing complex functionality, I enjoy every aspect of the development process and take pride in delivering high-quality products that meet the needs of my clients. When I'm not coding, you can find me exploring new technologies, or playing football.
+👨‍💻 Experienced in designing user interfaces and implementing complex functionality to deliver high-quality products that meet client needs.
 
-I'm always eager to learn new things and stay up-to-date with the latest trends in the tech industry. Feel free to browse my Github repositories and get in touch if you'd like to collaborate on a project or have any questions for me.
+🚀 Eager to stay up-to-date with the latest trends in technology and continuously learn new skills. Actively exploring new technologies and seeking opportunities to contribute to open source projects.
+
+⚽ When not coding, you can find me on the football field, exploring new technologies, or working on personal projects.
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [daniyalwahied@gmail.com](mailto:daniyalwahied@gmail.com)
+* ✉️ Feel free to reach out to me at [daniyalwahied@gmail.com](mailto:daniyalwahied@gmail.com). Let's connect and discuss how we can work together to create impactful solutions!
+* 🚀  I'm currently working on [SaleKardo](http://salekardo.com/)
+* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Interesting projects in web development or open source
-* ⚡  I'm also interested in exploring the intersection of technology and social impact, and using my skills to make a positive difference in the world.
+* ⚡ Interested in exploring the intersection of technology and social impact, and using my skills to make a positive difference in the world.
 
 ### Skills
 
@@ -21,13 +25,16 @@ I'm always eager to learn new things and stay up-to-date with the latest trends 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
- <a href="https://www.styled-components.com"><img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials
@@ -39,5 +46,3 @@ I'm always eager to learn new things and stay up-to-date with the latest trends 
 <b>My GitHub Stats</b>
 
 <img align="left" alt="dev-danialwaheed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-Danialw&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="dev-Danialw's GitHub stats" />
-
-<a href="http://www.github.com/dev-Danialw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-Danialw&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
