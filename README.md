@@ -1,22 +1,21 @@
-Hi 👋 My name is Danial Waheed
+Hi 👋 I'm Danial Waheed
 ===============================
 
-Developer
+**Full Stack Developer**
 -------------
 
-🎓 Recent Computer Science graduate passionate about web development and mobile applications. Specializing in React.js and Next.js for dynamic and responsive web applications and React Native for cross-platform mobile development.
+🎓  Computer Science graduate with expertise in React.js, Next.js, and React Native.  Proven ability to design, develop, and deploy user-friendly applications.
 
-👨‍💻 Experienced in designing user interfaces and implementing complex functionality to deliver high-quality products that meet client needs.
+👨‍💻  Experienced in:
+
+* Developing responsive frontends (React.js, Next.js) with a focus on optimal UX.
+* Engineering scalable RESTful APIs (Node.js, MongoDB, Firebase).
+* Full-cycle web development, from requirements to implementation.
 
 🚀 Eager to stay up-to-date with the latest trends in technology and continuously learn new skills. Actively exploring new technologies and seeking opportunities to contribute to open source projects.
 
-⚽ When not coding, you can find me on the football field, exploring new technologies, or working on personal projects.
-
-* 🌍  I'm based in Pakistan
 * ✉️ Feel free to reach out to me at [daniyalwahied@gmail.com](mailto:daniyalwahied@gmail.com). Let's connect and discuss how we can work together to create impactful solutions!
-* 🚀  I'm currently working on [SaleKardo](http://salekardo.com/)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on Interesting projects in web development or open source
+* 🤝  I'm open to collaborating on Interesting projects or open source
 * ⚡ Interested in exploring the intersection of technology and social impact, and using my skills to make a positive difference in the world.
 
 ### Skills
@@ -41,8 +40,5 @@ Developer
 
 <p align="left"> <a href="https://www.github.com/dev-Danialw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danial-waheed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
 
 <img align="left" alt="dev-danialwaheed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-Danialw&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="dev-Danialw's GitHub stats" />
