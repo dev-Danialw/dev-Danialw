@@ -39,6 +39,3 @@ Hi 👋 I'm Danial Waheed
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/dev-Danialw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danial-waheed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-<img align="left" alt="dev-danialwaheed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-Danialw&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="dev-Danialw's GitHub stats" />
